@@ -1,4 +1,5 @@
 # Biseksi-Regulafalsi
+#Satria Aditama Prasetya - 11210910000019 (TI UIN 21)
 
 Berikut adalah contoh soal yang hasilnya terdapat akar dalam rentang:
 
